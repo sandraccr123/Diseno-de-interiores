@@ -1,0 +1,157 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+div.background
+{
+ position: relative;
+}
+.logo{
+	padding-left: 18px;
+	padding-top: 10px;
+}
+nav{
+	text-align: center;
+	margin-top: 0px;
+}
+nav ul{
+	text-align: center;
+}
+
+nav ul li{
+	display: inline-block;
+	list-style: none;
+
+}
+nav ul li a{
+	text-decoration: none;
+	color: black;
+}
+	
+
+nav ul{
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+}
+
+li{
+	display: inline-block;
+	margin: 7px -2px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+	font-family: calibri;
+	padding: 5px 10px;
+}
+
+li:nth-last-of-type(1) a:hover{
+	border-bottom: 3px solid #9C9C9C;
+}
+
+li:nth-last-of-type(2) a:hover{
+	border-bottom: 3px solid #9C9C9C;
+}
+
+li:nth-last-of-type(3) a:hover{
+	border-bottom: 3px solid #9C9C9C;
+}
+
+li:nth-last-of-type(4) a:hover{
+	border-bottom: 3px solid #9C9C9C;
+}
+
+li:nth-last-of-type(5) a:hover{
+	border-bottom: 3px solid #9C9C9C;
+}
+li:nth-last-of-type(6) a:hover{
+	border-bottom: 3px solid #9C9C9C;
+}
+li:nth-last-of-type(7) a:hover{
+	border-bottom: 3px solid #9C9C9C;
+}
+
+.down{
+	position: relative;
+	font-family: calibri;
+	font-weight: bold;
+	font-size: 13px;
+	top:1300px;
+	text-align: center;
+	background-color: #D2D7D7;
+	margin: 0px;
+	padding: 0px;
+}
+
+.color1{
+	color:#D2D7D7;
+}
+
+.boss{
+	padding-top: 50px;
+	padding-left: 250px;
+}
+
+div.text1 {
+ position:absolute;
+ text-align: justify;
+ font-family: calibri;
+ font-weight: bold;
+ top:250px;
+ left:630px;
+ padding-right: 250px;
+ border:none;
+ font-size: 17px;
+}
+
+div.pers1{
+ position:absolute;
+	padding-top: 50px;
+	padding-left: 250px;
+}
+div.pers2{
+	 position:absolute;
+	padding-top: 50px;
+	padding-left: 600px;
+}
+div.pers3{
+	 position:absolute;
+	padding-top: 50px;
+	padding-left: 950px;
+	
+}
+div.text2 {
+ position:absolute;
+ text-align: justify;
+ font-family: calibri;
+ font-weight: bold;
+ padding-top: 500px;
+ left:250px;
+ padding-right: 950px;
+ border:none;
+ font-size: 15px;
+}
+div.text3 {
+ position:absolute;
+ text-align: justify;
+ font-family: calibri;
+ font-weight: bold;
+ padding-top: 500px;
+ left:600px;
+ padding-right: 599px;
+ border:none;
+ font-size: 15px;
+}
+div.text4 {
+ position:absolute;
+ text-align: justify;
+ font-family: calibri;
+ font-weight: bold;
+ padding-top:500px;
+ left:950px;
+ padding-right: 250px;
+ border:none;
+ font-size: 15px;
+}

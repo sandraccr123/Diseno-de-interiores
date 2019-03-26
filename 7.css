@@ -1,11 +1,16 @@
 body{
 	margin: 0px;
 	padding: 0px;
-
-
+}
+div.background
+{
+ position: relative;
+}
+.logo{
+	padding-left: 18px;
+	padding-top: 10px;
 }
 nav{
-
 	text-align: center;
 	margin-top: 0px;
 }
@@ -21,8 +26,6 @@ nav ul li{
 nav ul li a{
 	text-decoration: none;
 	color: black;
-
-
 }
 	
 
@@ -66,26 +69,47 @@ li:nth-last-of-type(5) a:hover{
 li:nth-last-of-type(6) a:hover{
 	border-bottom: 3px solid #9C9C9C;
 }
-
-div.background
-{
- position: relative;
-
+li:nth-last-of-type(7) a:hover{
+	border-bottom: 3px solid #9C9C9C;
 }
-#fondo{
- position: relative;
+.down{
+	position: relative;
+	font-family: calibri;
+	font-weight: bold;
+	font-size: 13px;
+	top:350px;
+	text-align: center;
+	background-color: #7B7B7B;
+	margin: 0px;
+	padding: 0px;
+}
+.color1{
+	color:#7B7B7B;
 }
 .sobre {
  position:absolute;
- top:270px;
- left:550px;
+ top:380px;
+ left:680px;
  border:none;
+ color: white;
+ font-weight: bold;
+ font-size: 45px;
 }
 
-p{
+.serv3{
+	position:absolute;
+	left: 200px;
+	padding-top: 15px;
+}
+div.check{
+	position: absolute;
+	top: 835px;
+	left: 900px;
+}
+	div.form{
+	position:absolute;
+	left: 400px;
 	font-family: calibri;
 	font-weight: bold;
-	text-align: center;
-	font-size: 13px;
-
+	font-size: 20px;
 }

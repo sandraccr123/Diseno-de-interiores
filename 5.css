@@ -86,12 +86,17 @@ li:nth-last-of-type(7) a:hover{
 .color1{
 	color:#7B7B7B;
 }
+.linea1{
+	position: absolute;
+	top:390px;
+	left: 190px;
+}
+
 .sobre {
  position:absolute;
- top:380px;
- left:620px;
+ top:373px;
+ left:610px;
  border:none;
- color: white;
  font-weight: bold;
  font-size: 45px;
 }

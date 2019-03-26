@@ -90,36 +90,26 @@ li:nth-last-of-type(7) a:hover{
 	color:#7B7B7B;
 }
 
+.linea1{
+	position: absolute;
+	top:390px;
+	left: 190px;
+}
+
 .sobre {
  position:absolute;
- top:380px;
- left:700px;
+ top:373px;
+ left:650px;
  border:none;
- color: white;
  font-weight: bold;
  font-size: 45px;
 }
 .boss{
-	padding-top: 150px;
+	position: absolute;
+	top: 900px;
 	padding-left: 250px;
 }
-.abt2{
- filter:brightness(0.7);
- opacity: .9;
-}
 
-.sobre3{
- position:absolute;
- text-align: center;
- top:4130px;
- left:380px;
- color: white;
- right: 380px;
- border:none;
- font-weight: bold;
- font-size: 22px;
- font-family: calibri;
-}
 
 div.text1 {
  position:absolute;
@@ -134,28 +124,28 @@ div.text1 {
 }
 
 .pers1{
-    position: relative;
+    position: absolute;
 	width: 200px;
     height: 200px;
     border-radius: 100px;
-    top:50px;
+    top:1655px;
     left:300px;
 }
 .pers2{
-    position: relative;
+    position: absolute;
 	width: 200px;
     height: 200px;
     border-radius: 100px;
-    top:290px;
-    left:830px;
+    top:1900px;
+    right: 300px;
 }
 .pers3{
-    position: relative;
+    position: absolute;
 	width: 200px;
     height: 200px;
     border-radius: 100px;
-    top:550px;
-    right: 108px;
+    top:2150px;
+    left:300px;
 }
 div.text2 {
  position:absolute;

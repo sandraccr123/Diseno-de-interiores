@@ -78,33 +78,21 @@ li:nth-last-of-type(7) a:hover{
 	color:#7B7B7B;
 }
 
-.sobre {
- position:absolute;
- top:380px;
- left:620px;
- border:none;
- color: white;
- font-weight: bold;
- font-size: 45px;
- font-family: calibri;
-}
-.sobre2{
- position:absolute;
- text-align: center;
- top:3055px;
- left:380px;
- color: white;
- right: 380px;
- border:none;
- font-weight: bold;
- font-size: 22px;
- font-family: calibri;
+.linea1{
+	position: absolute;
+	top:390px;
+	left: 190px;
 }
 
-.bajo{
- filter:brightness(0.7);
- opacity: .9;	
+.sobre {
+ position:absolute;
+ top:373px;
+ left:610px;
+ border:none;
+ font-weight: bold;
+ font-size: 45px;
 }
+
 
 .down{
 	position: relative;

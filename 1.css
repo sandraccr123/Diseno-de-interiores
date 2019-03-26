@@ -78,7 +78,7 @@ div.background
 .sobre {
  position:absolute;
  top:270px;
- left:550px;
+ left:540px;
  border:none;
 }
 
@@ -88,4 +88,16 @@ p{
 	text-align: center;
 	font-size: 13px;
 
+}
+.sobre2 {
+ position:absolute;
+ top:197px;
+ left:100px;
+ border:none;
+}
+.sobre3 {
+ position:absolute;
+ top:197px;
+ right: 100px;
+ border:none;
 }

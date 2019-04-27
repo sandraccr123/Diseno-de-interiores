@@ -2,10 +2,14 @@ body{
 	margin: 0px;
 	padding: 0px;
 }
+
 div.background
 {
  position: relative;
+ 
+
 }
+
 .logo{
 	padding-left: 18px;
 	padding-top: 10px;
@@ -73,6 +77,22 @@ li:nth-last-of-type(7) a:hover{
 	border-bottom: 3px solid #9C9C9C;
 }
 
+.down{
+	position: relative;
+	font-family: calibri;
+	font-weight: bold;
+	font-size: 13px;
+	top:11px;
+	text-align: center;
+	background-color: #7B7B7B;
+	margin: 0px;
+	padding: 0px;
+}
+
+.color1{
+	color:#7B7B7B;
+}
+
 .linea1{
 	position: absolute;
 	top:390px;
@@ -82,130 +102,119 @@ li:nth-last-of-type(7) a:hover{
 .sobre {
  position:absolute;
  top:373px;
- left:600px;
+ left:650px;
  border:none;
  font-weight: bold;
  font-size: 45px;
 }
-
-.down{
-	position: relative;
-	font-family: calibri;
-	font-weight: bold;
-	font-size: 13px;
-	top:12px;
-	text-align: center;
-	background-color: #7B7B7B;
-	margin: 0px;
-	padding: 0px;
-}
-.color1{
-	color:#7B7B7B;
-}
-
-.serv3{
-	position:absolute;
-	left: 200px;
-	padding-top: 15px;
-}
-.serv4{
-	position:absolute;
-	left: 200px;
-	padding-top: 390px;
+.boss{
+	position: absolute;
+	top: 900px;
+	padding-left: 250px;
 }
 
 
- .costado{
-     position:absolute;
-	left: 100px;
-	padding-top: 33px;
-}
 div.text1 {
  position:absolute;
  text-align: justify;
  font-family: calibri;
  font-weight: bold;
- left:250px;
- padding-right: 800px;
+ top:938px;
+ left:630px;
+ padding-right: 250px;
  border:none;
- font-size: 16px;
+ font-size: 17px;
+}
+
+.pers1{
+    position: absolute;
+	width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    top:1655px;
+    left:300px;
+}
+.pers2{
+    position: absolute;
+	width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    top:1900px;
+    right: 300px;
+}
+.pers3{
+    position: absolute;
+	width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    top:2150px;
+    left:300px;
 }
 div.text2 {
  position:absolute;
  text-align: justify;
  font-family: calibri;
  font-weight: bold;
- left:790px;
- padding-right: 250px;
+ top: 1655px;
+ left:550px;
+ padding-right: 300px;
  border:none;
- font-size: 16px;
+ font-size: 15px;
 }
 div.text3 {
  position:absolute;
  text-align: justify;
  font-family: calibri;
  font-weight: bold;
- left:1050px;
- padding-top:155px;
- padding-right: 250px;
+ top: 1895px;
+ left:300px;
+ padding-right: 537px;
  border:none;
- font-size: 16px;
+ font-size: 15px;
 }
-
-div.text7{
+div.text4 {
  position:absolute;
  text-align: justify;
  font-family: calibri;
  font-weight: bold;
- left:800px;
- padding-top:0px;
- padding-right: 250px;
- border:none;
- font-size: 16px;
-}
-div.text12{
-  position:absolute;
- text-align: justify;
- font-family: calibri;
- font-weight: bold;
- padding-top: 230px;
- left:800px;
- padding-right: 250px;
- border:none;
- font-size: 16px;
-}
-
-div.text9 {
- position:absolute;
- text-align: justify;
- font-family: calibri;
- font-weight: bold;
- padding-top: 70px;
- left:450px;
- padding-right: 450px;
- border:none;
- font-size: 16px;
-}
-div.text10 {
- position:absolute;
- text-align: justify;
- font-family: calibri;
- font-weight: bold;
- padding-top: 193px;
- left:795px;
- padding-right: 450px;
- border:none;
- font-size: 16px;
-}
-div.text11 {
- position:absolute;
- text-align: justify;
- font-family: calibri;
- font-weight: bold;
- padding-top: 210px;
+ top:2157px;
  left:550px;
- padding-right: 450px;
+ padding-right: 300px;
  border:none;
- font-size: 16px;
+ font-size: 15px;
 }
 
+.AD{
+	position:absolute;
+	right: 100px;
+	padding-top: 570px;
+
+}
+.CC{
+	position:absolute;
+	left: 100px;
+}
+
+
+div.text5 {
+ position:absolute;
+ text-align: left;
+ font-family: calibri;
+ font-weight: bold;
+ padding-top:670px;
+ left:250px;
+ padding-right: 800px;
+ border:none;
+ font-size: 15px;
+}
+div.text6 {
+ position:absolute;
+ text-align: right;
+ font-family: calibri;
+ font-weight: bold;
+ padding-top:80px;
+ left:900px;
+ padding-right: 100px;
+ border:none;
+ font-size: 15px;
+}
